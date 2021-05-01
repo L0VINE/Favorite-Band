@@ -80,3 +80,24 @@ ul{
     color: white;
     font-weight: bold;
   }
+  .Nviiri{
+    display: flex;
+    padding-top: 50px;
+   justify-content: center;
+  }
+  .N-content{
+    font-size: 20px;
+    padding-left: 40px;
+    width: 40%;
+  }
+  .Okello
+  {
+    display: flex;
+    padding-top: 50px;
+   justify-content: center;
+  }
+.O-content{
+  font-size: 20px;
+    padding-left: 40px;
+    width: 40%;
+}
