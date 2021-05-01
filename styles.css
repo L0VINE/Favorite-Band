@@ -1,10 +1,10 @@
 body{
-    background-image: url(/images/Sauti-sol-5.jpg);
+    background-image: url("./images/Sauti-sol-5.jpg");
     background-repeat: no-repeat;
     font-size: 30px;
-     height: 500px; 
      background-repeat: no-repeat;
      background-size: cover;
+     height: 500px;
     
 }
 .About{
@@ -29,6 +29,8 @@ ul{
     border: 1px solid #f1f1f1;
    height: 100%;
    width: 50%;
+   text-align: center;
+   margin-left: 300px;
   
   }
   
@@ -67,41 +69,14 @@ ul{
 
 .bg-image {
     
-    background-image: url("images/nviiri-the-storyteller-640x467.jpg");
-
-    filter: blur(8px);
-  
-    /* Full height */
-    height: 100%;
-  
-    /* Center and scale the image nicely */
-    background-position: center;
+    background-image: url("./images/nviiri-the-storyteller-640x467.jpg");
     background-repeat: no-repeat;
     background-size: cover;
   }
   
-  /* Position text in the middle of the page/image */
+  
   .bg-text {
-    background-color: rgb(0,0,0); /* Fallback color */
-    background-color: rgba(0,0,0, 0.4); /* Black w/opacity/see-through */
+
     color: white;
     font-weight: bold;
-    border: 3px solid #f1f1f1;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    z-index: 2;
-    width: 80%;
-    padding: 20px;
-    text-align: center;
   }
-  /* <div class="card">
-      <img src="img3.jpg" alt="John" style="width:100%">
-      <div class="container">
-        <h2>John Doe</h2>
-        <p class="title">Designer</p>
-        <p>Some text that describes me lorem ipsum ipsum lorem.</p>
-        <p>example@example.com</p>
-        <p><button class="button">Contact</button></p>
-      </div>
-    </div> */
