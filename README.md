@@ -15,5 +15,5 @@ My Favorite Band Website
      HTML
      CSS
      
-     Support and contact details
+ Support and contact details
     If there are any ideas or concerns ,one can raise one in the issues page.
