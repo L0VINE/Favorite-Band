@@ -11,9 +11,9 @@ My Favorite Band Website
  Known Bugs
  THere are no known  bugs since this is a very simple informative website
 
- Technologies Used{
-     HTML
-     CSS
+ Technologies Used
+    HTML
+    CSS
      
  Support and contact details
     If there are any ideas or concerns ,one can raise one in the issues page.
